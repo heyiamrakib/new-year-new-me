@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+/* Header Part */
+.head{
+    background: url(images/banner/banner1.png) no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.head-contain{
+    width: 35%;
+    float: right;
+    margin-right: 200px;
+    margin-top: 160px;
+}
+.head-contain h1{
+    font-size: 60px;
+    text-align: right;
+    margin-bottom: 20px;
+}
+.head-contain p{
+    color: rgb(139, 139, 139);
+    font-weight: 200;
+    width: 76%;
+    text-align: right;
+    float: right;
+    margin-bottom: 20px;
+}
+.btn1{
+    float: right;
+    margin-left: 60px;
+    padding: 8px 15px;
+    background-color: rgb(255, 96, 33);
+    border: none;
+    border-radius: 2px;
+    color: white;
+    
+}
+/* My failures of previous Year */
+.my-failures{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
+.my-failures-content{
+    display: flex;
+    gap: 140px;
+}
+.my-failures-content img{
+    
+    width: 460px;
+    height: 500px;
+    
+}
+.my-failures-content-text{
+    margin-top: 100px;
+    width: 30%;
+    margin-left: 120px;
+
+}
+.my-failures-content-text h1{
+    font-size: 45px;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+.my-failures-content-text p{
+    font-size: 14px;
+    color: rgb(139, 139, 139);
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+.my-failures-content-text i{
+    color: rgb(0, 235, 0);
+}
+.my-failures-content-text ul{
+    padding: 0;
+}
+.my-failures-content-text li{
+    list-style: none;
+    font-size: 14px;
+    width: 100%;
+    float: left;
+    color: rgb(139, 139, 139);
+}
+/* My Plan */
+.my-plan{
+    width: 80%;
+    margin: auto;
+    margin-top: 120px;
+    
+}
+.my-plan-top h1{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 80px;
+}
+.my-plan-content{
+    display: flex;
+    justify-content: center;
+   
+}
+.my-plan-content-topic{
+    margin-right: 80px;
+    text-align: center;
+    line-height: 30px;
+   
+}
+.my-plan-content-topic img{
+   width: 70px;
+}
+.my-plan-content-topic h2{
+    font-size: 20px;
+}
+.my-plan-content-topic p{
+    color: rgb(139, 139, 139);
+}
