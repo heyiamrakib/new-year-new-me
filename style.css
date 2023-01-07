@@ -54,7 +54,9 @@
 .my-failures-content-text {
   margin-top: 100px;
   width: 30%;
-  margin-left: 120px;
+  margin-left: 40px;
+  line-height: 26px;
+  
 }
 .my-failures-content-text h1 {
   font-size: 45px;
