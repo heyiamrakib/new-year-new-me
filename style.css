@@ -92,9 +92,10 @@
   margin-bottom: 80px;
 }
 .my-plan-content {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 40px;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-around;
 }
 .my-plan-content-topic {
   margin-right: 80px;
